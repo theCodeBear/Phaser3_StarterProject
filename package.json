@@ -10,9 +10,10 @@
   "author": "Todd Kronenberg <toddkronenberg@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "phaser": "^3.23.0"
+    "phaser": "^3.55.0"
   },
   "devDependencies": {
-    "parcel": "^2.0.0-alpha.3.2"
+    "@parcel/transformer-image": "2.0.0-beta.3.1",
+    "parcel": "^2.0.0-beta.3.1"
   }
 }
